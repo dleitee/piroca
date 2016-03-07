@@ -29,8 +29,8 @@ $ piroca --help
     Pingola
 
     $ piroca --all
-    Cacete
-    Caralho
+    Aipim
+    Anaconda
     ...
 
   Options
