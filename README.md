@@ -1,10 +1,16 @@
 # Piroca as a Service
 
-> Get names Brazilians give to d*ck
+Brazilians tend to give way too many names to :eggplant:. This is an effort on listing them all.
 
 ![eggplant](http://media.giphy.com/media/iMrHFdDEoxT5S/giphy.gif)
 
-Brazilians tend to give way too many names to `peepee`. This is an effort on listing them all.
+## Motivation
+Common use cases for PIROCA are badwords filtering and nice typography tattoos.
+
+## I Find This Offensive™
+Due it's very nature, it's pretty obvious that the content of the list may be offensive. Think of it as [shutterstock's List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), but focused on a more specific "subject".
+
+Now seriously, if you feel offended, my apologies. Give me a heads up and I'll take the repo out.
 
 ## Install
 ```
@@ -33,8 +39,8 @@ $ piroca --help
             _,-%/%|
         _,-'    \//%\
     _,-'        \%/|%
-  / / )    __,--  /%\
-  \__/_,-'%(%  ;  %)%
+  CENSORED CENSORED CENSORED
+  CENSORED CENSORED CENSORED
           %\%,   %\
             '--%'
 ```
