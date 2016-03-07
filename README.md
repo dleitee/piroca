@@ -8,7 +8,7 @@ Brazilians tend to give way too many names to :eggplant:. This is an effort on l
 Common use cases for PIROCA are badwords filtering and nice typography tattoos.
 
 ## I Find This Offensive™
-Due it's very nature, it's pretty obvious that the content of the list may be offensive. Think of it as [shutterstock's List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), but focused on a more specific "subject".
+Due it's very nature, it's pretty obvious that the contents of the list may look offensive. Think of it as [shutterstock's List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), but focused on a more specific "subject".
 
 Now seriously, if you feel offended, my apologies. Give me a heads up and I'll take the repo out.
 
