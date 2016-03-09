@@ -46,5 +46,6 @@ Inspired by [Sindre Sorhus' yes-no-words](https://github.com/sindresorhus/yes-no
 MIT © [João Cunha](http://twitter.com/joaocunha)
 
 ## I Find This Offensive™
-Due it's very nature, it's pretty obvious that the contents of the list may look offensive. Think of it as [shutterstock's List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), but focused on a more specific "subject".
-Now seriously, if you feel offended, my apologies. Give me a heads up and I'll take the repo out.
+Due it's very nature, it's pretty obvious that the contents of the list may look offensive - at least if you understand Portuguese. Think of it as [shutterstock's List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), but focused on a more specific "subject".
+
+On a more serious note, if you feel offended, my apologies. Give me a heads up and I'll take the repo out.
