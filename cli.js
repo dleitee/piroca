@@ -1,6 +1,4 @@
 #!/usr/bin/env node
-'use strict';
-
 var meow = require('meow');
 var piroca = require('./');
 
@@ -11,21 +9,24 @@ var cli = meow({
     "  $ piroca",
     "  Pingola",
     "",
+    "  $ piroca",
+    "  Pipi",
+    "",
     "  $ piroca --all",
-    "  Cacete",
-    "  Caralho",
+    "  Aipim",
+    "  Anaconda",
     "  ...",
     "",
     "Options",
     "  --all   Get all piroca names instead of a random piroca name.",
     "",
-    "          _,-%/%|",
-    "      _,-'    \\//%\\",
-    "  _,-'        \\%/|%",
-    "/ / )    __,--  /%\\",
-    "\\__/_,-'%(%  ;  %)%",
-    "        %\\%,   %\\",
-    "          '--%'"
+    "               _,-%/%|",
+    "           _,-'    \\//%\\",
+    "       _,-'        \\%/|%",
+    "     / / )    __,--  /%\\",
+    "     \\__/_,-'%(%  ;  %)%",
+    "             %\\%,   %\\",
+    "               '--%'"
   ]
 });
 
