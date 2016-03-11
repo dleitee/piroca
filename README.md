@@ -16,7 +16,7 @@ $ npm install -g piroca
 ```
 $ piroca --help
 
-  PaaS - Piroca as a Service (get Brazilian equivalents for d*ck)
+  PaaS - Piroca as a Service (get Brazilian equivalents for :eggplant:)
 
 
   Examples

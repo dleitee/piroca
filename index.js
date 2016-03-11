@@ -1,7 +1,5 @@
-'use strict';
-
 var uniqueRandomArray = require('unique-random-array');
-var piroca = require('./names.json');
+var pirocaNames = require('./names.json');
 
-exports.names = piroca;
-exports.randomize = uniqueRandomArray(piroca);
+exports.names = pirocaNames;
+exports.randomize = uniqueRandomArray(pirocaNames);
